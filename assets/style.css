@@ -1,8 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@font-face {
+    font-family: "Syne Mono";
+    src: url(SyneMono-Regular.woff2);
+}
 
 html {
     height: 100%;
-    font-family: 'Syne Mono';
+    font-family: "Syne Mono";
 }
 
 body {
