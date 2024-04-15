@@ -1,0 +1,4 @@
+ErrorDocument 403 /forbidden.html
+ErrorDocument 404 /notFound.html
+ErrorDocument 500 /serverError.html
+ErrorDocument 502 /badGateway.html
