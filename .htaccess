@@ -2,3 +2,7 @@ ErrorDocument 403 /forbidden.html
 ErrorDocument 404 /notFound.html
 ErrorDocument 500 /serverError.html
 ErrorDocument 502 /badGateway.html
+
+# apprentely, this configuration file doesn't work
+# on github, since github doesn't allow tributers to
+# mess around with domain stuffs
